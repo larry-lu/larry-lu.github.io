@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Xiaoyu Lu"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My biography"
+  bio              : "I am a Data scientist with training in Geography. My PhD research focused on modeling Earth-surface processes using computational and machine learning technique. Most of the time I use Python and R for my purposes. "
   location         : "Austin, Tx"
   email            : "luxiaoyu1987@gmail.com"
   links:
