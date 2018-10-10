@@ -23,7 +23,7 @@ description              : "A place to write code."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "luxiaoyu1987/luxiaoyu1987.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  path of fallback teaser image, e.g. "/assets/images/teaser.jpg"
+teaser                   : "/assets/images/teaser.jpg"
  breadcrumbs             : true # true, false (default)
 words_per_minute         : 200
 comments:
