@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu personal website"
+title                    : "Personal website of Xiaoyu"
 title_separator          : "-"
 name                     : "Xiaoyu Lu"
 description              : "This is the personal website for Xiaoyu Lu. Xiaoyu is a data scientist with strong passion in computer programming, modeling, algorithms, and visualization."
