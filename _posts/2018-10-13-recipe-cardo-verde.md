@@ -8,7 +8,7 @@ tags:
 ---
 
 {% capture fig_img %}
-![Cardo Verde]({{ "/assets/images/post_images/cardo_verde.jpg" | relative_url }})
+![Cardo Verde]({{ "../assets/images/post_images/cardo_verde.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
