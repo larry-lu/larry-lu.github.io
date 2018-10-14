@@ -30,4 +30,4 @@ Matplotlib, seaborn, ggplot2, plotly, Tableau
 Model selection, hypothesis testing, confidence intervals, Bayesian and Monte Carlo
 
 **Others**
-$\LaTeX$, ArcGIS, HTML5, CSS, Javascript
+LaTeX, ArcGIS, HTML5, CSS, Javascript
