@@ -1,5 +1,5 @@
 ---
-title: "Recipe - Cardo Verde"
+title: "Recipe - Caldo Verde"
 categories:
   - Food
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 {% capture fig_img %}
-![Cardo Verde]({{ "../assets/images/post_images/cardo_verde.jpg" | relative_url }})
+![Caldo Verde]({{ "../assets/images/post_images/caldo_verde.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
