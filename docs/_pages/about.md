@@ -1,8 +1,11 @@
 ---
 permalink: /about/
 title: "About me"
+excerpt: "Xiaoyu Lu is just another egg-headed data scientist."
 last_modified_at: 2018-10-13T23:14:00-23:59
 toc: true
+share: false
+ads: false
 ---
 
 ## About me 
