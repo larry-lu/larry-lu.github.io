@@ -20,7 +20,7 @@ title                    : "Currently under construction..."
 title_separator          : "-"
 name                     : "Xiaoyu Lu"
 description              : "This is the personal website for Xiaoyu Lu. Xiaoyu is a data scientist with strong passion in computer programming, modeling, algorithms, and visualization."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & proto` for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "luxiaoyu1987/luxiaoyu1987.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -278,7 +278,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -300,3 +299,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
