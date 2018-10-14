@@ -5,6 +5,7 @@ categories:
 tags:
   - Recipe
   - Food
+comment: true
 ---
 
 {% capture fig_img %}
