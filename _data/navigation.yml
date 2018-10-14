@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://luxiaoyu1987.github.io/docs/_pages/about/
+    url: https://luxiaoyu1987.github.io/about/
   - title: "My projects"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Resume"
