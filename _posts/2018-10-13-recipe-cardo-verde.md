@@ -16,11 +16,11 @@ tags:
   <figcaption>Photo from America's Test Kitchen.</figcaption>
 </figure>
 
-# story behind this dish
+## story behind this dish
 
 I saw this recipe the first time during a flight years back. If I ever decide to read the on-flight magazine during the flight, it is a sign of despair since I have nothing better to do. This happens all the time no matter how prepared I thought I was before boarding the airplane &mdash; iPad out of power, Kindle accidentally left in the backpack sitting in the overhead cabin... Anyways, that was possibly one of the best in-flight decision I ever made, since I have been feeding myself and many others over the years with this dish. 
 
-# ingredients
+## ingredients
 
 * 1 lb green kale, stem removed, finely chopped
 * 8 oz chorizo sausage
@@ -33,7 +33,7 @@ I saw this recipe the first time during a flight years back. If I ever decide to
 * salt and pepper
 * optional: cilantro or mint
 
-# Direction
+## Direction
 1. heat oil in pot and cook the sausage; remove sausage
 2. add onions to oil and stir until colored
 3. add garlic to onions and stir
