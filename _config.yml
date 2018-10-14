@@ -286,13 +286,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive #single
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
