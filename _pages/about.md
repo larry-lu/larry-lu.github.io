@@ -13,13 +13,18 @@ I love to explore the hidden side of data. I use Python, R, and SQL most of the 
 
 **Programming**
 Python, R, MATLAB
+
 **SQL**
 MySQL, MS-SQL Server, Postgres SQL
+
 **Machine Learning**
 scikit-learn, pyspark, Keras, Tensorflow
+
 **Visualization**
 Matplotlib, seaborn, ggplot2, plotly, Tableau
+
 **Statistics**
 Model selection, hypothesis testing, confidence intervals, Bayesian and Monte Carlo
+
 **Others**
 LaTeX, ArcGIS, HTML5, CSS, Javascript
