@@ -2,7 +2,7 @@
 title: "Classification of news articles using Naive Bayes classifier"
 ---
 
-The objective of this assignment is to use the [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) to build a classifier to automatically categorize news articles into different topics. I used the Reuter’s dataset ([Reuters-21578](http://www.daviddlewis.com/resources/testcollections/reuters21578/)), which include thousands of news article items, each with its own topic label. The data are saved in 22 separate *.sgm files. For this assignment, I am only focusing on the below topics:
+The objective of this assignment is to use the [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) to build a classifier to automatically categorize news articles into different topics. I used the Reuter’s dataset ([Reuters-21578](http://www.daviddlewis.com/resources/testcollections/reuters21578/)), which include thousands of news article items, each with its own topic label. The data are saved in 22 separate *.sgm files. 
 
 {% capture fig_img %}
 ![News classification](https://www.providermatching.com/wp-content/uploads/2018/06/news.jpg)
@@ -13,7 +13,7 @@ The objective of this assignment is to use the [Naive Bayes classifier](https://
   <figcaption style="center">Photo from providermatching.com</figcaption>
 </figure>
 
-**money, fx, crude, grain, trade, interest, wheat, ship, corn, oil, dlr, gas, oilseed, supply, sugar,gnp, coffee, veg, gold, soybean, bop, livestock, cp**
+For this project, I am only focusing on the below topics:money, fx, crude, grain, trade, interest, wheat, ship, corn, oil, dlr, gas, oilseed, supply, sugar,gnp, coffee, veg, gold, soybean, bop, livestock, cp
 
 The [`pyspark`](http://spark.apache.org/docs/2.2.0/api/python/pyspark.html) will be used for the entire project. We also use [`sklearn`](http://scikit-learn.org/stable/) to compare the speed with `pyspark`.
 
