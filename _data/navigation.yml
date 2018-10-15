@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "My projects"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Resume"
+    url: /resume/
+  - title: "Portfolio"
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
