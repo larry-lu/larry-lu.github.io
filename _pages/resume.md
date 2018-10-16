@@ -83,7 +83,9 @@ Download my updated [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_Xi
 ## Awards
 
 **Thomas Fellowship**, the University of Tennessee, 2016 – 2017. \$10,000.
-**Chancellor’s Fellowship**, the University of Tennessee, 2014
-– 2018. \$10,000\/yr. for 4 years.
+
+**Chancellor’s Fellowship**, the University of Tennessee, 2014 – 2018. \$10,000/yr. for 4 years.
+
 **Robert Long Outstanding Graduate Student Award**, the University of Tennessee, 2017–2018. \$500.
+
 **Bruce Ralston Geospatial Award**, the University of Tennessee, 2017. \$200
