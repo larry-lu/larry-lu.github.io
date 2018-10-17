@@ -23,8 +23,6 @@ Download my updated [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_Xi
 
 **Others** &mdash; LaTeX, ArcGIS, HTML5, CSS, Javascript
 
-<hr>
-
 ## Experience
 
 **Data Analyst**, <span>Web.com</span>
@@ -35,8 +33,6 @@ Download my updated [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_Xi
 * Automated anomaly detection of online customer's review data;
 * Regression models for prediction of rent prices
 
-<hr>
-
 ## Education
 
 **University of Tennessee Knoxville** &mdash; 2018
@@ -44,15 +40,11 @@ Download my updated [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_Xi
 * PhD, Geographical Information Sciences
 * Minor, Computational Sciences
 
-<hr>
-
 ## Training
 
 **High Performance Computing Workshops: Big Data**
 
 * National Institute of Computational Sciences, University of Tennessee
-
-<hr>
 
 ## Projects
 
@@ -77,8 +69,6 @@ Download my updated [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_Xi
 **Predicting spatial patterns of sediment movement using Quantile Regression Forest**
 
 * Used QRF models to improve the prediction of  sediment movement by 10% compared to Random Forest
-
-<hr>
 
 ## Awards
 
