@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Portfolio"
-    url: /year-archive/
+  - title: "Categories"
+    url: /tags/
   - title: "Collections"
-    url: /collection-archive/
+    url: /collections/
   # - title: "Sitemap"
   #  url: /sitemap/
