@@ -8,5 +8,7 @@ main:
     url: /tags/
   - title: "Collections"
     url: /collections/
+  - title: "Recipes"
+    url: /Recipes/
   # - title: "Sitemap"
   #  url: /sitemap/

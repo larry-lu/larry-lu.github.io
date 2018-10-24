@@ -1,7 +1,13 @@
 ---
 title: "Caldo Verde"
+author: Larry Lu
+date: 2018-10-16
 tags: [food, recipe]
+categories: food
 toc: true
+header:
+  teaser: "assets/images/post_images/caldo_verde.jpg"
+excerpt: Caldo Verde, a hearty Portuguese soup, is featured with chorizo sausage, potato, and kale. A good combination of healthy ingredients, flavor, and appearance. 
 ---
 
 Caldo Verde is a Portuguese dish that features chorizo sausage, kale, and potato. This hearty soup goes great with all sorts of bread. Although you can try this recipe out for all sorts of occasions, it is best to enjoy during times when it's cold outside. 
