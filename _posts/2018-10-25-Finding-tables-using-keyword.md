@@ -16,7 +16,7 @@ After taking 2 courses on Coursera, and spent several days working on problem se
 
 ## Why this can be useful
 
-Because nobody knows every single table by its name. This may be due to several factors that are usually not well addressed in online tutorials. 
+Because nobody knows every single table by its name. In general, database in real life are much bigger and more comoplicated than ones you deal with in tutorials or classes.
 
 Tutorials/Classes|Real life
 ---|---
