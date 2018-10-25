@@ -5,9 +5,9 @@ title: Posts
 author_profile: false
 sidebar:
   - image: "/assets/images/me_rec.jpg"
+  - caption: "Photo credit: [**Clint Shannon**](https://www.instagram.com/clint_shannon/)"
 description: "I am a Data scientist with training in Geographical information sciences. I am always interested in machine learning algorithms and data visualization. "
 og_image: "/assets/images/me_rec.jpg"
-caption: "Photo credit: [**Clint Shannon**](https://www.instagram.com/clint_shannon/)"
 ---
 I use this place to record things about computer science, data, photography, and many other aspects of life here. 
 
