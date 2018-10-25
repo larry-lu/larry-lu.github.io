@@ -5,7 +5,7 @@ last_modified_at: 2018-10-15T23:14:00-23:59
 toc: true
 ---
 
-My most recent [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_XiaoyuLu.pdf?raw=1) available for download.
+My most recent [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_XiaoyuLu.pdf?raw=1) is available for download.
 
 <hr>
 
