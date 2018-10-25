@@ -21,7 +21,7 @@ My most recent [resume](https://www.dropbox.com/s/4flbixhke0psg11/Resume_XiaoyuL
 
 **Statistics** &mdash; model selection, hypothesis testing, confidence intervals
 
-**Others** &mdash; LaTeX, ArcGIS, HTML5, CSS, Javascript
+**Others** &mdash; LaTeX, ArcGIS
 
 ## Experience
 
