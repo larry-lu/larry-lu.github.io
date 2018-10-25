@@ -12,11 +12,11 @@ header:
 excerpt: Need help finding a table lost in a huge database? No Problem.
 ---
 
-After taking 2 courses on Coursera, and spent several days working on problem sets on W3School, Hackerrank, and Leetcode, I thought I had everything I need to be successful at my new job, which involves a lot of data <abbr title="Extract, Transform, and Load">ETL</abbr> at multiple databases, each contains tens of schemas and hundreds/thousands of tables. Given my unfamiliarity with the database, trying to find a table can be difficult. However, this snippet became a life saver and turned out super helpful for me to navigate through the complexity of the database.
+If you are a data analyst/scientist at a large company, your job will inevitably involve a lot of data <abbr title="Extract, Transform, and Load">ETL</abbr> at multiple databases, each contains maybe tens of schemas and hundreds/thousands of tables. Trying to find a table within the database can be difficult. However, this snippet can be a life saver to help you navigate through the database.
 
 ## Why this can be useful
 
-Because nobody knows every single table by its name. In general, database in real life are much bigger and more comoplicated than ones you deal with in tutorials or classes.
+Because nobody knows every single table by its name. This may be due to several factors that are usually not well addressed in online tutorials. 
 
 Tutorials/Classes|Real life
 ---|---
