@@ -6,6 +6,10 @@ tags:
   - python
   - data
   - icesat
+toc: true
+header:
+  teaser: "assets/images/post_images/GLAS.png"
+excerpt: Using Python 3 to process and extract elevation information from ICESat GLAH14 data product.
 ---
 
 ## Background information
@@ -143,7 +147,7 @@ else:
 We can map out the footprints of the dataset. The points are all over land mass (of course since we are using the **LAND SURFACE** Altimetry Data). The warmer color represents higher elevation and colder color represents lower elevation.
 
 {% capture fig_img %}
-![Caldo Verde]({{ "../assets/images/post_images/GLAS.png" | relative_url }})
+![Elevation extracted using ICESat]({{ "../assets/images/post_images/GLAS.png" | relative_url }})
 {% endcapture %}
 
 <figure>
