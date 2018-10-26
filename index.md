@@ -17,13 +17,13 @@ feature_row:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read More"
-  - image_path: /assets/images/test.jpg
+  - image_path: /assets/images/food.jpg
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Gallery"
+    excerpt: "If it can be written, it can be taken."
+    url: "/gallery/"
     btn_class: "btn--primary"
-    btn_label: "Read More"
+    btn_label: "See More"
   - image_path: /assets/images/food.jpg
     alt: "Recipes"
     title: "Recipes"
