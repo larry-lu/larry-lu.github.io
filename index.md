@@ -10,13 +10,13 @@ header:
   cta_url: "/about/"
 excerpt: 'Eat, Love, and Program'
 feature_row:
-  - image_path: /assets/images/test.jpg
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/pages/"
+  - image_path: /assets/images/post_images/GLAS.png
+    alt: "Posts"
+    title: "Posts"
+    excerpt: "Record, reflect, and react."
+    url: "/posts/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Read More"
   - image_path: /assets/images/test.jpg
     alt: "fully responsive"
     title: "Responsive Layouts"
