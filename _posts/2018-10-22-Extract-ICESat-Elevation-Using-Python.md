@@ -22,7 +22,7 @@ The ICESat collects elevation information using the [GLAS](https://icesat.gsfc.n
 
 The [GLAH14](https://nsidc.org/data/glah14) is the GLAS/ICEsat L2 Global Land Surface Altimetry Data (HDF5). For altimetry data on sea ice, ocean, or ice sheets, [other data droducts](https://nsidc.org/data/glah14) are available. 
 
-The data is in [HDF5](http://docs.h5py.org/en/latest/quick.html) format (.H5). An HDF5 file is a container for two kinds of objects: datasets, which are array-like collections of data, and groups, which are folder-like containers that hold datasets and other groups. For the GLAH14 dataset, there is a detailed [instruction](https://nsidc.org/data/docs/daac/glas_altimetry/data-dictionary-glah14.html) on data structure and description. The GLAH14 data has very rich information and to view the structures within the file, one easy way is to use the [HDFView](https://support.hdfgroup.org/products/java/hdfview/). It's a free software that is available for most operation systems.
+The data is in [HDF5](http://docs.h5py.org/en/latest/quick.html) format (.H5). An HDF5 file is a container for two kinds of objects: datasets, which are array-like collections of data, and groups, which are folder-like containers that hold datasets and other groups. For the GLAH14 dataset, there is a detailed [instruction](https://nsidc.org/data/docs/daac/glas_altimetry/data-dictionary-glah14.html) on data structure and description. The GLAH14 data has rich information and to view the structures within the file, one easy way is to use the [HDFView](https://support.hdfgroup.org/products/java/hdfview/). It's a free software that is available for most operation systems.
 
 ## The workflow
 

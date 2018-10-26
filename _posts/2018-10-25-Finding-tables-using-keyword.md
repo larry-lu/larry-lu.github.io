@@ -20,7 +20,7 @@ Because nobody knows every single table by its name. This may be due to several 
 
 Tutorials/Classes|Real life
 ---|---
-Small database, simple schema, very few tables|Multiple large databases, hundreds/thousands of tables
+Small database, simple schema, a few tables|Multiple large databases, hundreds/thousands of tables
 All tables follow a naming convention that is consistent and self-explanatory|Depends
 Instructor knows what he/she has in the database|"Legacy stuff? Nobody knows what's in there"
 
