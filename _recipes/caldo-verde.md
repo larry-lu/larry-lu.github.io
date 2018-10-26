@@ -23,7 +23,7 @@ Caldo Verde is a Portuguese dish that features chorizo sausage, kale, and potato
 
 ## Story behind this dish
 
-I read about this recipe for the first time during a flight years back. If I ever decide to read the on-flight magazine during the flight, it is a sign of despair since I have nothing better to do. This happens all the time no matter how prepared I thought I was before boarding the airplane &mdash; iPad out of power, Kindle accidentally left in the backpack sitting in the overhead cabin... Anyways, finding this recipe was possibly one of the best in-flight decision I ever made, since I have been feeding myself and many others over the years with this dish. 
+I read about this recipe for the first time during a flight years back. If I ever decide to read the on-flight magazine during the flight, it is a sign of despair since I have nothing better to do. This happens all the time no matter how prepared I thought I was before boarding the airplane &mdash; iPad out of power, Kindle accidentally left in the backpack sitting in the overhead cabin… Anyways, finding this recipe was possibly one of the best in-flight decision I ever made, since I have been feeding myself and many others over the years with this dish. 
 
 ## Ingredients
 

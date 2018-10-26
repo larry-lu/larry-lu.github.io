@@ -10,7 +10,7 @@ header:
 excerpt: Jambalaya is a Cajun dish with chicken, sausage, onion, bell pepper, celery, shrimp, and rice.
 ---
 
-Jambalaya is a Louisiana dish and one of my all-time favorite. Louisiana is famous for a lot of things: Bayous, Mardi Gras, the Mississippi Delta, etc. Strong Spanish and French influence can be observed everywhere. The food at Louisiana is also very unique given the cultural influence. In fact, this dish bears resemblance to paella, the Spanish seafood fried rice to a certain extent. Paella uses ingredients including mussels, lobster, cuttlefish, rabbit, and saffron, and some of the ingredients are either expensive or not easily accessible. Jambalaya, on the other hand, uses a list of common, less expensive ingredients. However, the flavor of the dish is not compromised in any way.
+Jambalaya is a Louisiana dish and one of my all-time favorite. Louisiana is famous for a lot of things: Bayous, Mardi Gras, the Mississippi Delta, etc. Strong Spanish and French influence can be observed everywhere. The food at Louisiana is also unique given the cultural influence. In fact, this dish bears resemblance to paella, the Spanish seafood fried rice to a certain extent. Paella uses ingredients including mussels, lobster, cuttlefish, rabbit, and saffron, and some of the ingredients are either expensive or not easily accessible. Jambalaya, on the other hand, uses a list of common, less expensive ingredients. However, the flavor of the dish is not compromised in any way.
 
 {% capture fig_img %}
 ![Jambalaya]({{ "../assets/images/post_images/jambalaya.jpg" | relative_url }})
