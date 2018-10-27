@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /gallery/
+permalink: /media/
 author_profile: false
 sidebar:
   - image: "/assets/images/me_rec.jpg"
@@ -9,8 +9,6 @@ sidebar:
   - title: "Gallery"
   - text: "I use my Fuji XT20 camera for most of my works."
 ---
-
-## Gallery
 
 <div class="grid__wrapper">
   {% assign posts = site.gallery %}

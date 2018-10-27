@@ -7,7 +7,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Gallery"
-    url: /gallery/
+    url: /media/
   - title: "Categories"
     url: /tags/
   - title: "Recipes"
