@@ -7,18 +7,10 @@ toc: true
 
 ## Who am I
 
-I love to explore the hidden side of data. I use Python, R, and SQL most of the time to solve my problems, and I always strive to learn new techniques. I had a PhD in Geographical Information Sciences, and had extensive training in geospatial data sciences, a discipline that focuses on the development and application of geo-spatial dataset and algorithms. 
+I am currently working as a data analyst in Austin, Texas. I have a Ph.D. in Geographical Information Sciences at the University of Tennessee Knoxville. My interest mainly focuses on data mining, algorithms, and data visualization. I try to solve all my problems in `Python`, but would resort to other tools including `R` and `MATLAB` when necessary. I am also always interested in learning other new techniques and implement what I learn to help better problem solving and decision making. 
 
-## Summary of my skills
+## Why I started this website
 
-**Programming** &mdash; Python, R, MATLAB
+Yes, I have accounts at [WordPress](WordPress.com), [Blogger](Blogger.com), [Flickr](Flickr.com), [Spotify](Spotify.com), and many other websites, for various purposes. However,for a long time I was not aware that I NEED a personal website. A place that is centralized so I do not have to divert my time and energy clicking through different websites. I need a place to record my everyday ideas, my computer science notes, my playlist, my photos, my portfolio, and other things. 
 
-**SQL** &mdash; MySQL, MS-SQL Server, Postgres SQL
-
-**Machine Learning** &mdash; scikit-learn, pyspark, Keras, Tensorflow
-
-**Visualization** &mdash; matplotlib, seaborn, ggplot2, plotly, Tableau
-
-**Statistics** &mdash; model selection, hypothesis testing, confidence intervals
-
-**Others** &mdash; LaTeX, ArcGIS, HTML5, CSS, Javascript
+Github's personal page provides an ideal platform for my situation. I have full control over the stuff I write, how I decide to display them, and everything can be customized. Thanks to open-source tools including [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), building this website was much easier than it otherwise would be.
