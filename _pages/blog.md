@@ -10,8 +10,6 @@ sidebar:
   - text: "I use this place to record things about computer science, data, photography, and many other aspects of life. "
 ---
 
-## Latest Stories
-
 <div class="grid__wrapper">
   {% assign posts = site.posts %}
   {% for post in posts %}
