@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
   - title: "Posts"
     url: /posts/
   - title: "Gallery"
@@ -12,5 +10,7 @@ main:
     url: /tags/
   - title: "Recipes"
     url: /recipes/
+  - title: "Resume"
+    url: /resume/
   # - title: "Sitemap"
   #  url: /sitemap/
