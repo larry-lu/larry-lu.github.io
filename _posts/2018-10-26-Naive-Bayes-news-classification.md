@@ -1,5 +1,15 @@
 ---
 title: "Classification of news articles using Naive Bayes classifier"
+categories:
+  - Data
+tags:
+  - python
+  - spark
+  - data
+toc: true
+header:
+  teaser: "assets/images/post_images/news.jpg"
+excerpt: Using Pyspark to classify news articles.
 ---
 
 The objective of this assignment is to use the [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) to build a classifier to automatically categorize news articles into different topics. I used the Reuter’s dataset ([Reuters-21578](http://www.daviddlewis.com/resources/testcollections/reuters21578/)), which include thousands of news article items, each with its own topic label. The data are saved in 22 separate *.sgm files. 
