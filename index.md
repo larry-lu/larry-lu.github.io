@@ -21,7 +21,7 @@ feature_row:
     alt: "Gallery"
     title: "Gallery"
     excerpt: "How I see things, and how I hear things."
-    url: "/media/"
+    url: "/gallery/"
     btn_class: "btn--primary"
     btn_label: "See More"
   - image_path: /assets/images/food.jpg
