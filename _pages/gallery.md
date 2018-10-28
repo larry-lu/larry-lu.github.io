@@ -10,6 +10,8 @@ sidebar:
   - text: "I use my Fuji XT20 camera for most of my works."
 ---
 
+## On the film
+
 <div class="grid__wrapper">
   {% assign posts = site.gallery %}
   {% for post in posts %}

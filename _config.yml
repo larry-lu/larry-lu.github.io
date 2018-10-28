@@ -320,11 +320,12 @@ defaults:
   # _gallery
   - scope:
       path: ""
-      type: gallery
+      type: recipes
     values:
       layout: single
       author_profile: true
       share: true
+      related: true
   
   # _projects
   - scope:
@@ -338,6 +339,9 @@ defaults:
 # Collections
 collections:
   recipes:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
     output: true
     permalink: /:collection/:path/
   projects:
