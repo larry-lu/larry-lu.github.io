@@ -8,9 +8,9 @@ main:
     url: /gallery/
   - title: "Recipes"
     url: /recipes/
-  - title: "Categories"
-    url: /tags/
-  - title: "Resume"
-    url: /resume/
+  # - title: "Categories"
+  #   url: /tags/
+  # - title: "Resume"
+  #   url: /resume/
   # - title: "Sitemap"
   #  url: /sitemap/

@@ -14,7 +14,7 @@ I am an amateur at photography, but I am not afraid of being one. I love shootin
 
 Most of the time I use my Fujifilm X-T20 camera. I also use iPhone whever the camera is not around.
 
-## On the film
+## Through the lens
 
 <div class="grid__wrapper">
   {% assign posts = site.gallery %}
