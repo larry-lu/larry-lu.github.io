@@ -306,11 +306,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
 
   # _recipes
   - scope:
       path: ""
       type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: single
       author_profile: true

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /media/
+permalink: /gallery/
 author_profile: false
 sidebar:
   - image: "/assets/images/me_rec.jpg"
