@@ -320,7 +320,7 @@ defaults:
   # _gallery
   - scope:
       path: ""
-      type: recipes
+      type: gallery
     values:
       layout: single
       author_profile: true

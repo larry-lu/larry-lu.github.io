@@ -7,9 +7,9 @@ tags:
   - travel
 toc: false
 header:
-  teaser: "https://flic.kr/p/QjWCTh"
+  teaser: "assets/images/post_images/newOrleans.jpg"
 excerpt: I came, I saw, and I conferenced, twice.
-gallery2:
+gallery:
   - url: https://flic.kr/p/QjWCTh
     image_path: https://farm2.staticflickr.com/1932/31719481918_80d195a0b1_k.jpg
     alt: "Flamingos"
@@ -30,4 +30,4 @@ It was an amazing city full of fun. The French Quarter was something you would n
 
 I went to the World War II Museum twice. It was arguably one of the best museums I have ever been to. It has extensive collections of weapons, documents, and other military artifacts from the WWII. The museum also did a great job making the ambience, and it was easy to lose yourself in it. Both trips were super informative and mind-blowing.
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery" layout="half" caption="Top-left: Flamingos at the Audubon Zoo; top-right: The National WWII Museum; bottom-left: street band at the French Quarter; bottom-right: another street band at French Quarter" %}
