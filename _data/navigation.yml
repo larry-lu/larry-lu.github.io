@@ -6,10 +6,10 @@ main:
     url: /posts/
   - title: "Gallery"
     url: /gallery/
-  - title: "Categories"
-    url: /tags/
   - title: "Recipes"
     url: /recipes/
+  - title: "Categories"
+    url: /tags/
   - title: "Resume"
     url: /resume/
   # - title: "Sitemap"

@@ -7,7 +7,7 @@ sidebar:
   - caption: "Photo credit: [**Clint Shannon**](https://www.instagram.com/clint_shannon/)"
   - image_alt: "profile_picture"
   - title: "Posts"
-  - text: "I use this place to record things about computer science, data, photography, and many other aspects of life.  "
+  - text: "I use this place to record things about computer science, data, photography, and many other aspects of life. "
 ---
 
 ## Latest Stories
