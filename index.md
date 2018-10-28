@@ -8,26 +8,26 @@ header:
   overlay_image: /assets/images/banner.jpg
   cta_label: "About me"
   cta_url: "/about/"
-excerpt: 'Eat, Love, and Program'
+excerpt: 'Enjoy being an amateur'
 feature_row:
   - image_path: /assets/images/post_images/GLAS.png
     alt: "Posts"
     title: "Posts"
-    excerpt: "Record, reflect, and react."
+    excerpt: "Record, reflect, respond, and react."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read More"
   - image_path: /assets/images/colorado.jpg
     alt: "Gallery"
     title: "Gallery"
-    excerpt: "How I see things, and how I hear things."
+    excerpt: "By projecting the world through the lens, everything is simplified"
     url: "/gallery/"
     btn_class: "btn--primary"
     btn_label: "See More"
   - image_path: /assets/images/food.jpg
     alt: "Recipes"
     title: "Recipes"
-    excerpt: "Stay curious and be adventurous with your taste buds."
+    excerpt: "Stay curious and be adventurous with the taste buds."
     url: "/recipes/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
