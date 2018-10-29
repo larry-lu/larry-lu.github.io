@@ -3,6 +3,7 @@ permalink: /about/
 title: "About me"
 last_modified_at: 2018-10-13T23:14:00-23:59
 toc: false
+share: false
 ---
 
 ## Who am I
