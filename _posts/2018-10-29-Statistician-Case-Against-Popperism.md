@@ -5,7 +5,7 @@ categories:
 tags:
   - notes
   - reading
-toc: true
+toc: false
 header: 
   teaser: "assets/images/post_images/statisticalRethinking.jpg"
 excerpt: Richard McElreath in his recent book critiqued the wrongly perceived Popperism in the form of unconditional pursuit of falsification in the scientific society.
