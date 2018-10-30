@@ -1,4 +1,4 @@
-This is the personal website of Xiaoyu Lu that is mainly used for keeping track of ideas in everyday life.
+This is the personal website of Xiaoyu Lu.
 
 The website is built using the following tools:
 
