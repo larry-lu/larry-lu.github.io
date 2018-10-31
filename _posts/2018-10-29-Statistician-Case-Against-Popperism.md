@@ -5,6 +5,9 @@ categories:
 tags:
   - notes
   - reading
+  - statistics
+  - science
+  - research
 toc: false
 header: 
   teaser: "assets/images/post_images/statisticalRethinking.jpg"
