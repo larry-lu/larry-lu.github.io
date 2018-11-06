@@ -10,7 +10,7 @@ header:
   cta_url: "/about/"
 excerpt: 'Enjoy being an amateur'
 feature_row:
-  - image_path: /assets/images/chris-ried-512801-unsplash.jpg
+  - image_path: /assets/images/andrew-neel-308138-unsplash.jpg
     alt: "Posts"
     title: "Posts"
     excerpt: "Record, reflect, respond, and react."
