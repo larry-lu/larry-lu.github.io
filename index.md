@@ -10,14 +10,14 @@ header:
   cta_url: "/about/"
 excerpt: 'Enjoy being an amateur'
 feature_row:
-  - image_path: /assets/images/post_images/GLAS.png
+  - image_path: /assets/images/chris-ried-512801-unsplash.jpg
     alt: "Posts"
     title: "Posts"
     excerpt: "Record, reflect, respond, and react."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read More"
-  - image_path: /assets/images/colorado.jpg
+  - image_path: assets/images/colorado.jpg
     alt: "Gallery"
     title: "Gallery"
     excerpt: "By projecting the world through the lens, everything is simplified"
