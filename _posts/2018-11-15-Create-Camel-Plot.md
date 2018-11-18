@@ -18,11 +18,11 @@ excerpt: Using camel plot to visualize exposure age in Python
 >If you want to download and start using the code immediately, the code can be found at [Github](https://github.com/luxiaoyu1987/research/blob/master/camelplot.py).
 {: .notice--primary}
 
-## What is a camel plot?
+## What is a camel plot
 
-The term camel plot (or camel diagram) is a way to visualize the Gaussian uncertainty of some measurements. The term is first coined by Greg Balco in one of his blog [post](https://cosmognosis.wordpress.com/2011/07/25/what-is-a-camel-diagram-anyway/).
+The term camel plot (or camel diagram) is a way to visualize the Gaussian uncertainty of some measurements. The term is first coined by Greg Balco in one of his blog [posts](https://cosmognosis.wordpress.com/2011/07/25/what-is-a-camel-diagram-anyway/).
 
-## What is it good for?
+## What is it good for
 
 The diagram is widely used in paleo-environment research. To estimate when a certain environmental event occurred, researchers collect environmental [proxies](https://www.ncdc.noaa.gov/news/what-are-proxy-data) that are presumably associated with the event, extract the amount of certain chemicals from the proxy, and use that amount to determine at which time certain environmental events took place.
 
@@ -70,6 +70,8 @@ class TextHandler(HandlerBase):
         return [tx]
 ```
 
+### Create pseudo data and plotting them
+
 Like I mentioned, this method needs to create pseudo data. The simulation of pseudo data can be easily achieved using the Probability Density Function of normal distributions. However, we want to cache all the simulated data for each sample, and the final camel plot will be created using all the data. We also want to create separate lists for the handles and labels, so that the legend can be customized.
 
 ```python
@@ -93,7 +95,7 @@ for i, row in df.iterrows():
         data_cache.append(pseudo_data)
 ```
 
-To create the legend:
+### Create the customized legend
 
 ```python
 handles.append(("Mean :", 'black'))
@@ -117,7 +119,7 @@ ax.xaxis.get_offset_text().set_fontsize(16)
 ax.tick_params(labelsize=16)
 ```
 
-The final product:
+### The final product
 
 {% capture fig_img %}
 ![Camel plot]({{ "../assets/images/post_images/camel.png" | relative_url }})
