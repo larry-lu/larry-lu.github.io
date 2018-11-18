@@ -12,6 +12,9 @@ header:
 excerpt: Using Python 3 to process and extract elevation information from ICESat GLAH14 data product.
 ---
 
+>If you want to download and start using the code immediately, the code can be found at [Github](https://github.com/luxiaoyu1987/research/blob/master/extract_elevation_from_glah14.py).
+{: .notice--primary}
+
 ## Background information
 
 [ICESat](https://icesat.gsfc.nasa.gov/icesat/) (Ice, Cloud,and land Elevation Satellite) is the benchmark Earth Observing System mission for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography and vegetation characteristics. From 2003 to 2009, the ICESat mission provided multi-year elevation data needed to determine ice sheet mass balance as well as cloud property information, especially for stratospheric clouds common over polar areas. It also provided topography and vegetation data around the globe, in addition to the polar-specific coverage over the Greenland and Antarctic ice sheets.
@@ -25,8 +28,6 @@ The [GLAH14](https://nsidc.org/data/glah14) is the GLAS/ICEsat L2 Global Land Su
 The data is in [HDF5](http://docs.h5py.org/en/latest/quick.html) format (.H5). An HDF5 file is a container for two kinds of objects: datasets, which are array-like collections of data, and groups, which are folder-like containers that hold datasets and other groups. For the GLAH14 dataset, there is a detailed [instruction](https://nsidc.org/data/docs/daac/glas_altimetry/data-dictionary-glah14.html) on data structure and description. The GLAH14 data has rich information and to view the structures within the file, one easy way is to use the [HDFView](https://support.hdfgroup.org/products/java/hdfview/). It's a free software that is available for most operation systems.
 
 ## The workflow
-
->If you want to download and start using the code immediately, the code can be found at [Github](https://github.com/luxiaoyu1987/research/blob/master/extract_elevation_from_glah14.py).
 
 ### Import necessary libraries
 
