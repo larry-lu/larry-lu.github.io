@@ -130,3 +130,7 @@ ax.tick_params(labelsize=16)
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption style="center">Using camel plot to visualize exposure age dating</figcaption>
 </figure>
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
