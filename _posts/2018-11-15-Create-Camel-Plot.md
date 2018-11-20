@@ -10,6 +10,7 @@ tags:
   - visualization
   - research
 toc: true
+use_math: true
 header:
   teaser: "assets/images/post_images/camel.png"
 excerpt: Using camel plot to visualize exposure age in Python
