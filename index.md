@@ -20,7 +20,7 @@ feature_row:
   - image_path: assets/images/colorado.jpg
     alt: "Gallery"
     title: "Gallery"
-    excerpt: "By projecting the world through the lens, everything is simplified"
+    excerpt: "Everything is simpler through the lens."
     url: "/gallery/"
     btn_class: "btn--primary"
     btn_label: "See More"
