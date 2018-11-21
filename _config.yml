@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Xiaoyu Lu"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data scientist with training in Geographical information sciences. I am always interested in machine learning algorithms and data visualization. I try to use Python and R to address most of my questions whenever I can. "
-  location         : "Austin, Tx"
+  bio              : "I am a Data scientist with training in Geographical information sciences. I am interested in machine learning algorithms and data visualization. "
+  location         : "Austin, TX"
   email            : "luxiaoyu1987@gmail.com"
   links:
     - label: "Email"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/luxiaoyu1987"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
