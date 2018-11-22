@@ -22,7 +22,7 @@ name                     : "Xiaoyu Lu"
 description              : "This is the personal website for Xiaoyu Lu. Xiaoyu is a data scientist with strong passion in computer programming, modeling, algorithms, and visualization."
 url                      : # the base hostname & proto` for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "luxiaoyu1987/luxiaoyu1987.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "larry-lu/larry-lu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
  breadcrumbs             : true # true, false (default)
 words_per_minute         : 200
@@ -107,11 +107,11 @@ author:
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Data scientist with training in Geographical information sciences. I am interested in machine learning algorithms and data visualization. "
   location         : "Austin, TX"
-  email            : "luxiaoyu1987@gmail.com"
+  email            : "x.larrylu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:luxiaoyu1987@gmail.com
+      # url: mailto:larrylu@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/luxiaoyu1987"
+      url: "https://github.com/larry-lu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/imageattach"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/luxiaoyu1987"
+      url: "https://github.com/larry-lu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
