@@ -12,7 +12,7 @@ tags:
 toc: true
 use_math: true
 header:
-  teaser: "assets/images/post_images/camel.png"
+  teaser: "assets/images/note_images/rainCloudPlot.jpg"
 excerpt: An updating notebook about data visualization using Python
 ---
 
@@ -39,6 +39,10 @@ The following raincloud plot was created by Dr. [Micah Allen's blog](https://mic
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption style="center">Rain cloud plot by Dr. Micah Allen</figcaption>
 </figure>
+
+## Interesting posts
+
+[A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
 ## Resources
 
